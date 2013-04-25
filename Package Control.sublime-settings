@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"EasyMotion",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Goto Documentation",
+		"Indent XML",
+		"Package Control",
+		"PHPUnit Completions",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"WordHighlight",
+		"Xdebug"
+	]
+}

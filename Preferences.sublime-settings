@@ -1,0 +1,28 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"theme": "Phoenix Dark.sublime-theme",
+	"draw_minimap_border": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_size": 12.5,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"preview_on_click": false,
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"theme": "Phoenix Dark.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_automatic_white_space_on_save": true
+}
