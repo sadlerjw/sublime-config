@@ -3,6 +3,7 @@
 	[
 		"BracketHighlighter",
 		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
 		"EasyMotion",
 		"Emmet",
 		"Gist",
@@ -11,6 +12,7 @@
 		"Goto Documentation",
 		"Indent XML",
 		"MacTerminal",
+		"JSHint",
 		"Package Control",
 		"PHPUnit Completions",
 		"ReadmePlease",
