@@ -2,7 +2,6 @@
 	"bold_folder_labels": true,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"theme": "Phoenix Dark.sublime-theme",
 	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
