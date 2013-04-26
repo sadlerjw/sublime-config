@@ -3,6 +3,7 @@
 	[
 		"BracketHighlighter",
 		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
 		"EasyMotion",
 		"Emmet",
 		"Gist",
@@ -10,6 +11,7 @@
 		"GitGutter",
 		"Goto Documentation",
 		"Indent XML",
+		"JSHint",
 		"Package Control",
 		"PHPUnit Completions",
 		"SublimeCodeIntel",
