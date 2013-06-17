@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"ColorSchemeSelector",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"EasyMotion",
