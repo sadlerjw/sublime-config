@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"ColorSchemeSelector",
 		"DocBlockr",
